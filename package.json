@@ -1,6 +1,14 @@
 {
   "name": "todos-5_1_0",
   "private": true,
+  "scripts": {
+    "test": "NODE_PATH='./node_modules:../app/javascript' jest --coverage"
+  },
+  "jest": {
+    "roots": [
+      "app/javascript"
+    ]
+  },
   "dependencies": {
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.2",
