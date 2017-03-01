@@ -6,6 +6,8 @@
 - [Jest](https://facebook.github.io/jest/)
 - [Babel configured for stage-2](https://babeljs.io/docs/plugins/preset-stage-2/)
 
+Check out the [commit history](https://github.com/paulsturgess/todos-5.1.0/commits/master) to see how I configured various parts of the app.
+
 ## Run the app locally
 
 - Install [Yarn](https://yarnpkg.com/en/)
